@@ -10,6 +10,6 @@ public class Main {
         genericHolder.setObj(333);
         System.out.println(genericHolder.getObj());
 
-
+        // test
     }
 }
